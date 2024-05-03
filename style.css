@@ -72,3 +72,13 @@ width: 25%;
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
+
+.rodape {
+    background-color: black; 
+    text-align: center;
+}
+
+.rodape-imagem {
+    height: 60px;
+    padding: 12px 0;
+}
